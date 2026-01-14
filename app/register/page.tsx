@@ -65,17 +65,19 @@ export default function RegisterPage() {
   const [submitted, setSubmitted] = useState(false);
   const isTunisia = formType === "tunisia";
 
-  const handleChange = (
-    e: React.ChangeEvent<
-      HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement
-    >
-  ) => {
-    const { name, value, type, checked } = e.target;
-    setForm((prev) => ({
-      ...prev,
-      [name]: type === "checkbox" ? checked : value,
-    }));
-  };
+const handleChange = (
+  e: React.ChangeEvent<
+    HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement
+  >
+) => {
+  const { name, value } = e.target;
+
+  setForm((prev) => ({
+    ...prev,
+    [name]: value,
+  }));
+};
+
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();

@@ -146,7 +146,7 @@ export function SponsorsSection() {
                 <Send className="ml-2 h-5 w-5" />
               </Button>
             </DialogTrigger>
-            <DialogContent className="sm:max-w-[600px] max-h-[90vh] overflow-y-auto">
+            <DialogContent className="sm:max-w-150 max-h-[90vh] overflow-y-auto">
               <DialogHeader>
                 <DialogTitle className="text-2xl">Sponsorship Request</DialogTitle>
                 <DialogDescription>
