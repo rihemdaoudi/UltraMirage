@@ -16,7 +16,7 @@ export function RaceSection() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Image */}
-          <div className="relative h-[400px] lg:h-[500px] rounded-lg overflow-hidden shadow-2xl">
+          <div className="relative h-100 lg:h-125 rounded-lg overflow-hidden shadow-2xl">
             <Image
               src={marathonImage}
               alt="Ultra Marathon runners in the desert"
