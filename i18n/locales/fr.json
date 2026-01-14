@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "umed2026": "UMED 2026",
+    "edition2026": "Édition 2026",
+    "pastEditions": "Éditions Passées",
+    "tozeur": "Tozeur",
+    "organization": "Organisation",
+    "gallery": "Galerie",
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "dashboard": "Tableau de bord"
+  },
+  "home": {
+    "tagline": "COUREZ LE SAHARA",
+    "title": "MARATHON",
+    "titleHighlight": "DE TOZEUR",
+    "subtitle": "Vivez la magie de la course dans le désert au cœur de la Tunisie. Rejoignez des milliers de coureurs pour un voyage inoubliable à travers les oasis anciennes et les paysages magnifiques.",
+    "cta": "S'inscrire pour 2026",
+    "learnMore": "En Savoir Plus",
+    "stats": {
+      "runners": "Coureurs",
+      "countries": "Pays",
+      "editions": "Éditions",
+      "finishers": "Taux d'arrivée"
+    },
+    "nextEdition": "PROCHAINE ÉDITION",
+    "countdown": {
+      "days": "Jours",
+      "hours": "Heures",
+      "minutes": "Minutes",
+      "seconds": "Secondes"
+    },
+    "features": {
+      "title": "POURQUOI LE MARATHON DE TOZEUR?",
+      "unique": {
+        "title": "Expérience Désertique Unique",
+        "description": "Courez à travers les palmeraies, les lacs salés et les paysages sahariens"
+      },
+      "professional": {
+        "title": "Organisation Professionnelle",
+        "description": "Parcours certifié IAAF avec chronométrage et normes de sécurité internationales"
+      },
+      "community": {
+        "title": "Communauté Mondiale",
+        "description": "Rejoignez des coureurs de plus de 30 pays dans cette aventure inoubliable"
+      },
+      "cultural": {
+        "title": "Immersion Culturelle",
+        "description": "Découvrez le riche patrimoine de Tozeur avant et après la course"
+      }
+    }
+  },
+  "auth": {
+    "login": "Connexion",
+    "signup": "Inscription",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Pas de compte?",
+    "hasAccount": "Déjà un compte?",
+    "signupNow": "Inscrivez-vous",
+    "loginNow": "Connectez-vous",
+    "loggingIn": "Connexion en cours...",
+    "signingUp": "Inscription en cours...",
+    "loginSuccess": "Bon retour!",
+    "signupSuccess": "Compte créé avec succès!",
+    "logoutSuccess": "Vous avez été déconnecté"
+  },
+  "footer": {
+    "about": "À Propos",
+    "aboutText": "Le Marathon de Tozeur est le premier événement de course dans le désert en Tunisie, réunissant des coureurs du monde entier.",
+    "quickLinks": "Liens Rapides",
+    "contact": "Contact",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés."
+  },
+  "common": {
+    "learnMore": "En Savoir Plus",
+    "viewDetails": "Voir les Détails",
+    "registerNow": "S'inscrire Maintenant",
+    "loading": "Chargement..."
+  }
+}

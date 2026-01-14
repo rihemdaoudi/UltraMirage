@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "Home",
+    "umed2026": "UMED 2026",
+    "edition2026": "Edition 2026",
+    "pastEditions": "Past Editions",
+    "tozeur": "Tozeur",
+    "organization": "Organization",
+    "gallery": "Gallery",
+    "login": "Login",
+    "register": "Register Now",
+    "logout": "Logout",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "tagline": "RUN THE SAHARA",
+    "title": "TOZEUR",
+    "titleHighlight": "MARATHON",
+    "subtitle": "Experience the magic of desert running in the heart of Tunisia. Join thousands of runners for an unforgettable journey through ancient oases and stunning landscapes.",
+    "cta": "Register for 2026",
+    "learnMore": "Learn More",
+    "stats": {
+      "runners": "Runners",
+      "countries": "Countries",
+      "editions": "Editions",
+      "finishers": "Finish Rate"
+    },
+    "nextEdition": "NEXT EDITION",
+    "countdown": {
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds"
+    },
+    "features": {
+      "title": "WHY TOZEUR MARATHON?",
+      "unique": {
+        "title": "Unique Desert Experience",
+        "description": "Run through palm groves, salt lakes, and stunning Saharan landscapes"
+      },
+      "professional": {
+        "title": "Professional Organization",
+        "description": "IAAF certified course with international timing and safety standards"
+      },
+      "community": {
+        "title": "Global Community",
+        "description": "Join runners from 30+ countries in this unforgettable adventure"
+      },
+      "cultural": {
+        "title": "Cultural Immersion",
+        "description": "Discover the rich heritage of Tozeur before and after the race"
+      }
+    }
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signupNow": "Sign up now",
+    "loginNow": "Login now",
+    "loggingIn": "Logging in...",
+    "signingUp": "Signing up...",
+    "loginSuccess": "Welcome back!",
+    "signupSuccess": "Account created successfully!",
+    "logoutSuccess": "You have been logged out"
+  },
+  "footer": {
+    "about": "About",
+    "aboutText": "Tozeur Marathon is Tunisia's premier desert running event, bringing together runners from around the world.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "registerNow": "Register Now",
+    "loading": "Loading..."
+  }
+}
