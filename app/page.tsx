@@ -13,7 +13,7 @@ export default function HomePage() {
     <Layout>
       <HeroSection /> 
       <CountdownSection />
-      <CountdownTimer targetDate={RACE_DATE} />
+      {/* <CountdownTimer targetDate={RACE_DATE} /> */}
       <StatsSection /> 
       <RaceSection />
       <SponsorsSection />
