@@ -15,7 +15,6 @@ export function Navbar() {
   const navLinks = [
     { name: "Home", path: "/" },
     { name: "UMED 2026", path: "/umed-2026" },
-    { name: "Edition 2026", path: "/edition-2026" },
     { name: "Past Editions", path: "/editions" },
     { name: "Tozeur", path: "/tozeur" },
     { name: "Organization", path: "/organization" },

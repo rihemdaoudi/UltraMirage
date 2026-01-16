@@ -48,7 +48,7 @@ export function Footer() {
             <ul className="space-y-3">
               {[
                 { name: "Home", path: "/" },
-                { name: "Edition 2026", path: "/edition-2026" },
+                { name: "UMED 2026", path: "/umed-2026" },
                 { name: "Past Editions", path: "/editions" },
                 { name: "Register", path: "/register" }
               ].map((link) => (
