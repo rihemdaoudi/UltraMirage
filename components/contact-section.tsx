@@ -20,14 +20,7 @@ export default function ContactSection() {
         <div className="space-y-12">
           {/* International Sales */}
           <div className="flex flex-col md:flex-row justify-between gap-8">
-            <div className="text-gray-900">
-              <p>Beaumont House</p>
-              <p>Kingswood Warren Park</p>
-              <p>Woodland Way</p>
-              <p>Surrey KT20 6AD</p>
-              <p>United Kingdom</p>
-            </div>
-            <div className="text-right">
+             <div className="text-left">
               <h3 className="text-xl font-semibold">International Sales</h3>
               <p>Ultra Mirage Sports International Ltd</p>
               <p>
@@ -36,24 +29,31 @@ export default function ContactSection() {
                 </a>
               </p>
             </div>
+            <div className="text-gray-900">
+              <p>Beaumont House</p>
+              <p>Kingswood Warren Park</p>
+              <p>Woodland Way</p>
+              <p>Surrey KT20 6AD</p>
+              <p>United Kingdom</p>
+            </div>
           </div>
           <hr className="border-gray-900" />
 
           {/* Communication & Sponsorship */}
           <div className="flex flex-col md:flex-row justify-between gap-8">
-            <div className="text-gray-900">
-              <p>Dar El Harka</p>
-              <p>42, rue du Pacha</p>
-              <p>Médina de Tunis 1006</p>
-              <p>Tunis – Tunisia</p>
-            </div>
-            <div className="text-right">
+            <div className="text-left">
               <h3 className="text-xl font-semibold">Communication & Sponsorship</h3>
               <p>
                 <a href="mailto:organisation@ultramirage.com" className="text-primary underline">
                   organisation@ultramirage.com
                 </a>
               </p>
+            </div>
+            <div className="text-gray-900">
+              <p>Dar El Harka</p>
+              <p>42, rue du Pacha</p>
+              <p>Médina de Tunis 1006</p>
+              <p>Tunis – Tunisia</p>
             </div>
           </div>
           <hr className="border-gray-900" />
@@ -71,6 +71,12 @@ export default function ContactSection() {
               <p>Bank RIB: BIAT 08 305 0000620076139 60</p>
               <p>IBAN: TN59 0830 5000 0620 0761 3960</p>
               <p>BIC: BIATTNTT</p>
+            </div>
+            <div className="text-gray-900">
+              <p>Dar El Harka</p>
+              <p>42, rue du Pacha</p>
+              <p>Médina de Tunis 1006</p>
+              <p>Tunis – Tunisia</p>
             </div>
           </div>
         </div>
